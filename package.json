@@ -1,0 +1,19 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "keywords": [],
+  "author": "Sean <sgroff04@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.6",
+    "prettier": "^1.9.2"
+  }
+}
